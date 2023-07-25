@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bocky
+* source:	https://sketchfab.com/3d-models/bocky-94a31b5ecc7e44eda109e4fd88a3c42d
+* author:	Gintoki1234 (https://sketchfab.com/Gintoki1234)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bocky" (https://sketchfab.com/3d-models/bocky-94a31b5ecc7e44eda109e4fd88a3c42d) by Gintoki1234 (https://sketchfab.com/Gintoki1234) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
